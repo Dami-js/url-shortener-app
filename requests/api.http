@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+  "longUrl": "https://www.amazon.com/dp/B07QNXZYHS/ref=sspa_dk_detail_2?psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzOEtWOTFNSUtBVDhPJmVuY3J5cHRlZElkPUEwMDI2ODM1MVJZQVVXNlpFVE5MViZlbmNyeXB0ZWRBZElkPUEwMTk0Njc3MUdROVg4NkkxVU1aTCZ3aWRnZXROYW1lPXNwX2RldGFpbDImYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl"
+}
